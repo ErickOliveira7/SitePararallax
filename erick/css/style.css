@@ -1,0 +1,81 @@
+* {
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+}
+
+.menu {
+    background-color: rgb(255, 251, 2);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.background1 {
+    background: url(../imagens/bg-1.jpg) no-repeat center center fixed;
+    background-size: cover;
+    padding-top: 230px;
+    padding-bottom: 280px;
+}
+
+.titulo1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 4em;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 1px 5px black;
+}
+
+.titulo2 {
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2em;
+    font-size: 2em;
+    text-shadow: 2px 1px 5px black;
+}
+
+.background2 {
+    background-color: rgb(255, 251, 2);
+    padding-top: 180px;
+    padding-bottom: 130px;
+}
+
+.titulo3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 4em;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 1px 5px black;
+    margin-bottom: 1em;
+}
+
+.icons {
+    font-size: 11em;
+    display: inline-flex;
+}
+
+.icofont-burger:hover {
+    color: rgb(196, 25, 25);
+    transition: color 0.5s ease-in-out;
+}
+
+.icofont-french-fries:hover {
+    color: rgb(196, 25, 25);
+}
+
+.icofont-cola:hover {
+    color: rgb(196, 25, 25);
+}
+
+.icofont-burger:hover {
+    color: rgb(196, 25, 25);
+}
+
+.icofont-soft-drinks:hover {
+    color: rgb(196, 25, 25);
+}
+
+.icofont-pizza:hover {
+    color: rgb(196, 25, 25);
+}
+
+.icofont-juice:hover {
+    color: rgb(196, 25, 25);
+}
