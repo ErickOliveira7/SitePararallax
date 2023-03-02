@@ -53,29 +53,82 @@
 
 .icofont-burger:hover {
     color: rgb(196, 25, 25);
-    transition: color 0.5s ease-in-out;
+    transition: color 0.2s ease-in-out;
 }
 
 .icofont-french-fries:hover {
     color: rgb(196, 25, 25);
+    transition: color 0.2s ease-in-out;
 }
 
 .icofont-cola:hover {
     color: rgb(196, 25, 25);
+    transition: color 0.2s ease-in-out;
 }
 
 .icofont-burger:hover {
     color: rgb(196, 25, 25);
+    transition: color 0.2s ease-in-out;
 }
 
 .icofont-soft-drinks:hover {
     color: rgb(196, 25, 25);
+    transition: color 0.2s ease-in-out;
 }
 
 .icofont-pizza:hover {
     color: rgb(196, 25, 25);
+    transition: color 0.2s ease-in-out;
 }
 
 .icofont-juice:hover {
     color: rgb(196, 25, 25);
+    transition: color 0.2s ease-in-out;
+}
+
+.background3 {
+    background: url(../imagens/bg-2.jpg) no-repeat center center fixed;
+    background-size: cover;
+    padding-top: 230px;
+    padding-bottom: 280px;
+}
+
+.background4 {
+    background-color: rgb(255, 251, 2);
+    color: rgb(255, 255, 255);
+    padding-bottom: 4em;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    padding-top: 4em;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 1px 5px black;
+    padding-bottom: 1em;
+}
+
+.btn1 {
+    background-color: rgb(185, 24, 24);
+    font-size: 2em;
+    border-radius: 1em;
+    border-style: none;
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+footer {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    background-color: rgb(29, 27, 27);
+}
+
+p {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
